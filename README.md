@@ -52,3 +52,11 @@ My name is Hai. You can call me Anthony Hai. I am a student at University of Inf
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DuyeenTM&repo=IE402.N11_DinhDocLap&theme=radical" />
 </a>
+<a href="https://github.com/honghaianthony/MovieReview/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=honghaianthony&repo=MovieReview&theme=highcontrast" />
+</a>    
+<a href="https://github.com/honghaianthony/dce2021Be/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=honghaianthony&repo=dce2021Be&theme=dracula" />
+</a>
