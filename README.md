@@ -6,8 +6,6 @@ My name is Hai. You can call me Anthony Hai. I am a student at University of Inf
 
 [![Website](https://github.com/honghaianthony/honghaianthony/blob/main/portfolio.png) Website](https://www.anthonyhai.tk/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/honghaianthony/)
 
-![AnthonyHai's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=honghaianthony&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
 <a href="https://github.com/honghaianthony/anthony-hai-official/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=honghaianthony&repo=anthony-hai-official&theme=radical" />
