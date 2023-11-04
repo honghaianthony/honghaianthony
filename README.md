@@ -1,6 +1,6 @@
 ### WELCOME TO MY GITHUB ^^
 
-My name is Hai. You can call me Anthony Hai. I am a student at University of Information Technology - Vietnam National University of HCMC, majoring in Web Developer. I am interested in the following topics: Frontend and its frameworks. I hope to be a fullstack developer.<br>
+My name is Hai. You can call me Anthony Hai. I'm a full-stack developer. Participate in some open source projects in my spare time, such as next,vue,vite. Recently focusing on AWS and Langchain.<br>
 
 ## 📫 How to reach me:
 
