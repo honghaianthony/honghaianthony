@@ -1,6 +1,6 @@
 ### WELCOME TO MY GITHUB ^^
 
-My name is Hai. You can call me Anthony Hai. I'm a full-stack developer. Participate in some open source projects in my spare time, such as next,vue,vite. Recently focusing on AWS, Strapi and Langchain.<br>
+My name is Hai. You can call me Anthony. I'm a full-stack developer. Participate in some open source projects in my spare time, such as next,vue,vite. Recently focusing on AWS, Strapi and Langchain.<br>
 
 ## 📫 How to reach me:
 
