@@ -1,11 +1,17 @@
-### WELCOME TO MY GITHUB ^^
+### WELCOME TO MY HOME
 
 My name is Hai. You can call me Anthony. I'm a full-stack developer. Participate in some open source projects in my spare time, such as next,vue,vite. Recently focusing on AWS, Strapi and Langchain.<br>
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 [![Website](https://github.com/honghaianthony/honghaianthony/blob/main/portfolio.png) Website](https://www.anthonyhai.tk/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/honghaianthony/)
 
+## Announcement
+
+The next version of my portfolio will be available soon! My new logo has been released. You can check it out here:
+[Link](https://github.com/honghaianthony/anthony-hai-official/blob/master/demo/Brand%20Light.png)
+
+## Repositories
 <a href="https://github.com/honghaianthony/anthony-hai-official/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=honghaianthony&repo=anthony-hai-official&theme=radical" />
